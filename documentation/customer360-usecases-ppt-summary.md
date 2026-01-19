@@ -42,8 +42,8 @@
 ## SLIDE 4: Customer 360 Use Case Categories
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│              GRAPH-POWERED CUSTOMER 360                 │
+┌────────────────────────────────────────────────────────┐
+│              GRAPH-POWERED CUSTOMER 360                │
 ├─────────────┬─────────────┬─────────────┬──────────────┤
 │  IDENTITY   │   FRAUD     │ CROSS-SELL/ │ CUSTOMER     │
 │ RESOLUTION  │ DETECTION   │  UPSELL     │ JOURNEY      │

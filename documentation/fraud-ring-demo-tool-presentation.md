@@ -70,7 +70,7 @@ They should ask: **"Is this claim CONNECTED to suspicious patterns?"**
                         STAGED ACCIDENT RING EXAMPLE
                         
         ┌─────────────────────────────────────────────────────┐
-        │                                                      │
+        │                                                     │
         │    CLAIM 1          CLAIM 2          CLAIM 3        │
         │    ┌─────┐          ┌─────┐          ┌─────┐        │
         │    │ $45K│          │ $62K│          │ $78K│        │
@@ -92,12 +92,12 @@ They should ask: **"Is this claim CONNECTED to suspicious patterns?"**
         │                        │                            │
         │       ┌────────────────┼────────────────┐           │
         │       ▼                ▼                ▼           │
-        │   ┌───────┐        ┌───────┐        ┌───────┐       │
-        │   │ Same  │        │ Same  │        │ Same  │       │
-        │   │Medical│        │ Body  │        │Attorney│      │
-        │   │ Provider       │ Shop  │        │        │      │
-        │   └───────┘        └───────┘        └───────┘       │
-        │                                                      │
+        │   ┌────────┐        ┌───────┐        ┌────────┐     │
+        │   │ Same   │        │ Same  │        │ Same   │     │
+        │   │Medical │        │ Body  │        │Attorney│     │
+        │   │Provider│        │ Shop  │        │        │     │
+        │   └────────┘        └───────┘        └────────┘     │
+        │                                                     │
         └─────────────────────────────────────────────────────┘
         
         INDIVIDUAL CLAIMS LOOK NORMAL
